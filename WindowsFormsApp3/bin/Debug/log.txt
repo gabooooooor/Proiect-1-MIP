@@ -1,0 +1,85 @@
+2026-10-14 16:53:49.539 - Navigating to: google.com
+2026-10-14 16:54:12.216 - Navigating to: bing.com
+2026-10-14 17:01:32.754 - Navigating to: 
+2026-10-14 17:01:38.039 - Navigating to: wikipedia
+2026-10-14 17:01:40.015 - Navigating to: wikipedia
+2026-10-14 17:07:40.680 - Uj kulcsszo: majom
+2026-10-14 17:09:11.602 - Navigated to home page: 
+2026-10-14 17:09:26.388 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:28.426 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:29.454 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:30.782 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.471 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.618 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.683 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:31.852 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:32.073 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:32.861 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:33.018 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:33.165 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:56.754 - Navigated back: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:57.680 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:09:57.935 - Navigated forward: https://www.msn.com/en-xl?ocid=iehp&bv=midlevel
+2026-10-14 17:11:58.019 - Navigated to: http://wikipedia
+2026-10-14 17:12:09.094 - Navigated to: http://majom
+2026-10-14 17:12:21.243 - Blocked site attempt: http://facebook
+2026-10-14 17:12:28.411 - Blocked site attempt: http://twitter
+2026-10-14 17:12:44.155 - Uj kulcsszo: majom
+2026-10-14 17:12:47.036 - Blocked site attempt: http://majom
+2026-10-14 17:12:52.274 - Navigated to: http://bing
+2026-10-14 17:13:01.679 - Navigated to: https://www.bing.com/search?q=bing.com
+2026-10-14 17:13:18.366 - Navigated back: https://www.bing.com/search?q=bing.com&rdr=1&rdrig=96B75AD0236A40288AD8FD042A2905A8
+2026-10-14 17:13:18.710 - Navigated back: https://www.bing.com/search?q=bing.com
+2026-10-14 17:13:19.714 - Navigated back: http://bing/
+2026-10-14 17:13:28.800 - Navigated to: https://www.bing.com/search?q=wikipedia.com
+2026-10-14 17:13:35.390 - Navigated to home page: https://www.bing.com/search?q=wikipedia.com
+2026-10-14 17:14:22.261 - Navigated to: https://www.bing.com/search?q=wikipedia
+2026-10-14 17:14:33.029 - Navigated to: https://www.bing.com/search?q=macska
+Verify completed in 7.0192 milliseconds, total of 1 times in 7.0192 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 5.009 milliseconds, total of 1 times in 5.009 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 4.9997 milliseconds, total of 1 times in 4.9997 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+2026-10-15 14:58:21.459 - Blocked site attempt: http://facebook.com
+2026-10-15 14:58:51.126 - Blocked site attempt: https://www.bing.com/search?q=valami
+Verify completed in 5.0146 milliseconds, total of 1 times in 5.0146 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 5.9993 milliseconds, total of 1 times in 5.9993 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 4.9971 milliseconds, total of 1 times in 4.9971 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+2026-10-15 15:05:10.917 - Navigated to: https://www.bing.com/search?q=valami
+Verify completed in 4.9996 milliseconds, total of 1 times in 4.9996 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 4.9984 milliseconds, total of 1 times in 4.9984 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x86\SQLite.Interop.dll"...
+Verify completed in 7.516 milliseconds, total of 1 times in 7.516 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x64\SQLite.Interop.dll"...
+2026-10-28 21:20:44.963 - Loaded keywords: 0
+2026-10-28 21:20:44.966 - Navigated to: https://www.bing.com
+2026-10-28 21:21:14.276 - New keyword: facebook
+2026-10-28 21:21:34.272 - New keyword: instagram
+2026-10-28 21:22:10.771 - Blocked site attempt: http://facebook.com
+2026-10-28 21:22:22.352 - Navigated to: http://wikipedi.org
+Verify completed in 5.2572 milliseconds, total of 1 times in 5.2572 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x64\SQLite.Interop.dll"...
+2026-10-28 21:22:39.675 - Loaded keywords: 2
+2026-10-28 21:22:39.677 - Navigated to: https://www.bing.com
+Verify completed in 4.999 milliseconds, total of 1 times in 4.999 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x64\SQLite.Interop.dll"...
+2026-10-28 21:22:49.399 - Loaded keywords: 2
+2026-10-28 21:22:49.402 - Navigated to: https://www.bing.com
+2026-10-28 21:24:00.328 - Deleted keyword: facebook
+Verify completed in 5.9992 milliseconds, total of 1 times in 5.9992 milliseconds.
+Native library pre-loader is trying to load native SQLite library "C:\Users\ministar\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\x64\SQLite.Interop.dll"...
+2026-10-28 21:24:10.841 - Loaded keywords: 1
+2026-10-28 21:24:10.845 - Navigated to: https://www.bing.com
+2026-10-28 21:24:37.622 - Home button pushed
+2026-10-28 21:24:37.631 - Navigated to: https://www.bing.com
+2026-10-28 21:24:39.586 - Forward button pushed: https://www.bing.com/
+2026-10-28 21:24:47.777 - Navigated to: http://wikipedia.org
+2026-10-28 21:24:51.256 - Back button pushed: https://www.wikipedia.org/
+2026-10-28 21:24:52.379 - Forward button pushed: https://www.bing.com/
+2026-10-28 21:24:54.993 - Home button pushed
+2026-10-28 21:24:54.999 - Navigated to: https://www.bing.com
